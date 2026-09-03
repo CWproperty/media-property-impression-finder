@@ -1,0 +1,3079 @@
+{
+  "updated": "September 2026",
+  "properties": [
+    "Homepage Special Feature",
+    "Homepage Wallpaper",
+    "Ticker"
+  ],
+  "rows": [
+    {
+      "state": "Maharashtra",
+      "city": "Ahilya Nagar",
+      "property": "Homepage Special Feature",
+      "impressions": 209.0,
+      "viewable": 69.0,
+      "clicks": 2.0,
+      "ctr": 0.009569377990430622
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Akluj",
+      "property": "Homepage Special Feature",
+      "impressions": 16.0,
+      "viewable": 7.0,
+      "clicks": 2.0,
+      "ctr": 0.125
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Akola",
+      "property": "Homepage Special Feature",
+      "impressions": 143.0,
+      "viewable": 58.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Ambajogai",
+      "property": "Homepage Special Feature",
+      "impressions": 8.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Amravati",
+      "property": "Homepage Special Feature",
+      "impressions": 207.0,
+      "viewable": 83.0,
+      "clicks": 2.0,
+      "ctr": 0.00966183574879227
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Badlapur",
+      "property": "Homepage Special Feature",
+      "impressions": 67.0,
+      "viewable": 21.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Baramati",
+      "property": "Homepage Special Feature",
+      "impressions": 67.0,
+      "viewable": 32.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Barshi",
+      "property": "Homepage Special Feature",
+      "impressions": 5.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Beed",
+      "property": "Homepage Special Feature",
+      "impressions": 67.0,
+      "viewable": 27.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Bhandara",
+      "property": "Homepage Special Feature",
+      "impressions": 30.0,
+      "viewable": 16.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Bhusawal",
+      "property": "Homepage Special Feature",
+      "impressions": 6.0,
+      "viewable": 3.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Buldhana",
+      "property": "Homepage Special Feature",
+      "impressions": 43.0,
+      "viewable": 23.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Chalisgaon",
+      "property": "Homepage Special Feature",
+      "impressions": 12.0,
+      "viewable": 5.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "property": "Homepage Special Feature",
+      "impressions": 136.0,
+      "viewable": 44.0,
+      "clicks": 1.0,
+      "ctr": 0.007352941176470588
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Chhatrapati Sambhaji Nagar",
+      "property": "Homepage Special Feature",
+      "impressions": 580.0,
+      "viewable": 206.0,
+      "clicks": 4.0,
+      "ctr": 0.006896551724137931
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Chiplun",
+      "property": "Homepage Special Feature",
+      "impressions": 7.0,
+      "viewable": 5.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Dahanu",
+      "property": "Homepage Special Feature",
+      "impressions": 7.0,
+      "viewable": 4.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Dapoli",
+      "property": "Homepage Special Feature",
+      "impressions": 3.0,
+      "viewable": 3.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Dharashiv",
+      "property": "Homepage Special Feature",
+      "impressions": 28.0,
+      "viewable": 8.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Dhule",
+      "property": "Homepage Special Feature",
+      "impressions": 108.0,
+      "viewable": 41.0,
+      "clicks": 1.0,
+      "ctr": 0.009259259259259259
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Dindori - MH",
+      "property": "Homepage Special Feature",
+      "impressions": 1.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Gadchiroli",
+      "property": "Homepage Special Feature",
+      "impressions": 43.0,
+      "viewable": 12.0,
+      "clicks": 1.0,
+      "ctr": 0.023255813953488372
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Gadhinglaj",
+      "property": "Homepage Special Feature",
+      "impressions": 2.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Gondia",
+      "property": "Homepage Special Feature",
+      "impressions": 50.0,
+      "viewable": 15.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Hinganghat",
+      "property": "Homepage Special Feature",
+      "impressions": 6.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Hingoli",
+      "property": "Homepage Special Feature",
+      "impressions": 9.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Ichalkaranji",
+      "property": "Homepage Special Feature",
+      "impressions": 22.0,
+      "viewable": 11.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Indapur",
+      "property": "Homepage Special Feature",
+      "impressions": 22.0,
+      "viewable": 16.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Jalgaon",
+      "property": "Homepage Special Feature",
+      "impressions": 153.0,
+      "viewable": 62.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Jalna",
+      "property": "Homepage Special Feature",
+      "impressions": 84.0,
+      "viewable": 38.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Jaysingpur",
+      "property": "Homepage Special Feature",
+      "impressions": 2.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kamleshwar",
+      "property": "Homepage Special Feature",
+      "impressions": 3.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kankavali",
+      "property": "Homepage Special Feature",
+      "impressions": 9.0,
+      "viewable": 4.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Karad",
+      "property": "Homepage Special Feature",
+      "impressions": 28.0,
+      "viewable": 7.0,
+      "clicks": 1.0,
+      "ctr": 0.03571428571428571
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Karjat",
+      "property": "Homepage Special Feature",
+      "impressions": 12.0,
+      "viewable": 8.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Khamgaon",
+      "property": "Homepage Special Feature",
+      "impressions": 13.0,
+      "viewable": 4.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Khopoli",
+      "property": "Homepage Special Feature",
+      "impressions": 16.0,
+      "viewable": 4.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kolhapur",
+      "property": "Homepage Special Feature",
+      "impressions": 459.0,
+      "viewable": 154.0,
+      "clicks": 1.0,
+      "ctr": 0.002178649237472767
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kopargaon",
+      "property": "Homepage Special Feature",
+      "impressions": 19.0,
+      "viewable": 7.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kudal",
+      "property": "Homepage Special Feature",
+      "impressions": 21.0,
+      "viewable": 8.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Latur",
+      "property": "Homepage Special Feature",
+      "impressions": 232.0,
+      "viewable": 77.0,
+      "clicks": 5.0,
+      "ctr": 0.021551724137931036
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mahad",
+      "property": "Homepage Special Feature",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Malegaon",
+      "property": "Homepage Special Feature",
+      "impressions": 40.0,
+      "viewable": 7.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Miraj",
+      "property": "Homepage Special Feature",
+      "impressions": 11.0,
+      "viewable": 3.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "property": "Homepage Special Feature",
+      "impressions": 1056.0,
+      "viewable": 373.0,
+      "clicks": 5.0,
+      "ctr": 0.004734848484848485
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Nanded",
+      "property": "Homepage Special Feature",
+      "impressions": 128.0,
+      "viewable": 39.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Nandurbar",
+      "property": "Homepage Special Feature",
+      "impressions": 42.0,
+      "viewable": 12.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Narayangaon",
+      "property": "Homepage Special Feature",
+      "impressions": 3.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Nashik",
+      "property": "Homepage Special Feature",
+      "impressions": 691.0,
+      "viewable": 265.0,
+      "clicks": 4.0,
+      "ctr": 0.005788712011577424
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Nevasa",
+      "property": "Homepage Special Feature",
+      "impressions": 2.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pandharpur",
+      "property": "Homepage Special Feature",
+      "impressions": 11.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Paratwada",
+      "property": "Homepage Special Feature",
+      "impressions": 1.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Parbhani",
+      "property": "Homepage Special Feature",
+      "impressions": 48.0,
+      "viewable": 12.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Phaltan",
+      "property": "Homepage Special Feature",
+      "impressions": 5.0,
+      "viewable": 3.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pimpri-Chinchwad",
+      "property": "Homepage Special Feature",
+      "impressions": 328.0,
+      "viewable": 98.0,
+      "clicks": 3.0,
+      "ctr": 0.009146341463414634
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "property": "Homepage Special Feature",
+      "impressions": 6040.0,
+      "viewable": 2138.0,
+      "clicks": 41.0,
+      "ctr": 0.006788079470198676
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Rahuri",
+      "property": "Homepage Special Feature",
+      "impressions": 3.0,
+      "viewable": 1.0,
+      "clicks": 1.0,
+      "ctr": 0.3333333333333333
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Raigad",
+      "property": "Homepage Special Feature",
+      "impressions": 245.0,
+      "viewable": 89.0,
+      "clicks": 1.0,
+      "ctr": 0.004081632653061225
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Ratnagiri",
+      "property": "Homepage Special Feature",
+      "impressions": 78.0,
+      "viewable": 30.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Sangamner",
+      "property": "Homepage Special Feature",
+      "impressions": 12.0,
+      "viewable": 6.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Sangli",
+      "property": "Homepage Special Feature",
+      "impressions": 214.0,
+      "viewable": 66.0,
+      "clicks": 2.0,
+      "ctr": 0.009345794392523364
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Saswad",
+      "property": "Homepage Special Feature",
+      "impressions": 4.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Satara",
+      "property": "Homepage Special Feature",
+      "impressions": 131.0,
+      "viewable": 35.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Sawantwadi",
+      "property": "Homepage Special Feature",
+      "impressions": 8.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Shahada",
+      "property": "Homepage Special Feature",
+      "impressions": 11.0,
+      "viewable": 4.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Shirdi",
+      "property": "Homepage Special Feature",
+      "impressions": 8.0,
+      "viewable": 6.0,
+      "clicks": 1.0,
+      "ctr": 0.125
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Shirur",
+      "property": "Homepage Special Feature",
+      "impressions": 16.0,
+      "viewable": 5.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Shrirampur",
+      "property": "Homepage Special Feature",
+      "impressions": 11.0,
+      "viewable": 5.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Sillod",
+      "property": "Homepage Special Feature",
+      "impressions": 2.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Sindhdurg",
+      "property": "Homepage Special Feature",
+      "impressions": 5.0,
+      "viewable": 2.0,
+      "clicks": 1.0,
+      "ctr": 0.2
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Solapur",
+      "property": "Homepage Special Feature",
+      "impressions": 216.0,
+      "viewable": 80.0,
+      "clicks": 1.0,
+      "ctr": 0.004629629629629629
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Tebhurni",
+      "property": "Homepage Special Feature",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Tumsar",
+      "property": "Homepage Special Feature",
+      "impressions": 1.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Udgir",
+      "property": "Homepage Special Feature",
+      "impressions": 3.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Ulhasnagar",
+      "property": "Homepage Special Feature",
+      "impressions": 21.0,
+      "viewable": 10.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Umred",
+      "property": "Homepage Special Feature",
+      "impressions": 1.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Vaijapur",
+      "property": "Homepage Special Feature",
+      "impressions": 1.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Vengurla",
+      "property": "Homepage Special Feature",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Wadkhal",
+      "property": "Homepage Special Feature",
+      "impressions": 2.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Wai",
+      "property": "Homepage Special Feature",
+      "impressions": 2.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Wani",
+      "property": "Homepage Special Feature",
+      "impressions": 2.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Wardha",
+      "property": "Homepage Special Feature",
+      "impressions": 67.0,
+      "viewable": 21.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Washim",
+      "property": "Homepage Special Feature",
+      "impressions": 34.0,
+      "viewable": 15.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Yavatmal",
+      "property": "Homepage Special Feature",
+      "impressions": 89.0,
+      "viewable": 41.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Yeotamal",
+      "property": "Homepage Special Feature",
+      "impressions": 2.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kalyan",
+      "property": "Homepage Special Feature",
+      "impressions": 218.0,
+      "viewable": 113.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "property": "Homepage Special Feature",
+      "impressions": 8631.0,
+      "viewable": 3992.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Thane",
+      "property": "Homepage Special Feature",
+      "impressions": 1072.0,
+      "viewable": 513.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Goa",
+      "property": "Homepage Wallpaper",
+      "impressions": 5.0,
+      "viewable": 4.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "North Goa",
+      "property": "Homepage Wallpaper",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Panjim",
+      "property": "Homepage Wallpaper",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Porvorim",
+      "property": "Homepage Wallpaper",
+      "impressions": 2.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "South Goa",
+      "property": "Homepage Wallpaper",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Vasco",
+      "property": "Homepage Wallpaper",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Ahilya Nagar",
+      "property": "Homepage Wallpaper",
+      "impressions": 125.0,
+      "viewable": 92.0,
+      "clicks": 1.0,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Akluj",
+      "property": "Homepage Wallpaper",
+      "impressions": 10.0,
+      "viewable": 7.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Akola",
+      "property": "Homepage Wallpaper",
+      "impressions": 77.0,
+      "viewable": 57.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Alibag",
+      "property": "Homepage Wallpaper",
+      "impressions": 12.0,
+      "viewable": 8.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Ambajogai",
+      "property": "Homepage Wallpaper",
+      "impressions": 2.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": 0.05405405405405406
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Amravati",
+      "property": "Homepage Wallpaper",
+      "impressions": 136.0,
+      "viewable": 98.0,
+      "clicks": 3.0,
+      "ctr": 0.15384615384615385
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Badlapur",
+      "property": "Homepage Wallpaper",
+      "impressions": 31.0,
+      "viewable": 26.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Baramati",
+      "property": "Homepage Wallpaper",
+      "impressions": 38.0,
+      "viewable": 32.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Barshi",
+      "property": "Homepage Wallpaper",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": 0.09322033898305085
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Beed",
+      "property": "Homepage Wallpaper",
+      "impressions": 37.0,
+      "viewable": 28.0,
+      "clicks": 1.0,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Bhandara",
+      "property": "Homepage Wallpaper",
+      "impressions": 9.0,
+      "viewable": 7.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Bhiwandi",
+      "property": "Homepage Wallpaper",
+      "impressions": 33.0,
+      "viewable": 26.0,
+      "clicks": null,
+      "ctr": 0.16666666666666666
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Bhusawal",
+      "property": "Homepage Wallpaper",
+      "impressions": 2.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Boisar",
+      "property": "Homepage Wallpaper",
+      "impressions": 15.0,
+      "viewable": 12.0,
+      "clicks": null,
+      "ctr": 0.031413612565445025
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Buldhana",
+      "property": "Homepage Wallpaper",
+      "impressions": 31.0,
+      "viewable": 25.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Chalisgaon",
+      "property": "Homepage Wallpaper",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": 0.019230769230769232
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "property": "Homepage Wallpaper",
+      "impressions": 70.0,
+      "viewable": 43.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Chaufula",
+      "property": "Homepage Wallpaper",
+      "impressions": 2.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Chhatrapati Sambhaji Nagar",
+      "property": "Homepage Wallpaper",
+      "impressions": 410.0,
+      "viewable": 297.0,
+      "clicks": 9.0,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Chiplun",
+      "property": "Homepage Wallpaper",
+      "impressions": 4.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": 0.01675977653631285
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Dahanu",
+      "property": "Homepage Wallpaper",
+      "impressions": 7.0,
+      "viewable": 3.0,
+      "clicks": null,
+      "ctr": 0.02727272727272727
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Dharashiv",
+      "property": "Homepage Wallpaper",
+      "impressions": 22.0,
+      "viewable": 17.0,
+      "clicks": null,
+      "ctr": 0.024390243902439025
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Dhule",
+      "property": "Homepage Wallpaper",
+      "impressions": 107.0,
+      "viewable": 82.0,
+      "clicks": 1.0,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Dombivali",
+      "property": "Homepage Wallpaper",
+      "impressions": 60.0,
+      "viewable": 48.0,
+      "clicks": null,
+      "ctr": 0.02127659574468085
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Gadchiroli",
+      "property": "Homepage Wallpaper",
+      "impressions": 22.0,
+      "viewable": 21.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Gadhinglaj",
+      "property": "Homepage Wallpaper",
+      "impressions": 3.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": 0.037037037037037035
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Gondia",
+      "property": "Homepage Wallpaper",
+      "impressions": 22.0,
+      "viewable": 15.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Hingoli",
+      "property": "Homepage Wallpaper",
+      "impressions": 8.0,
+      "viewable": 7.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Ichalkaranji",
+      "property": "Homepage Wallpaper",
+      "impressions": 12.0,
+      "viewable": 6.0,
+      "clicks": null,
+      "ctr": 0.06666666666666667
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Indapur",
+      "property": "Homepage Wallpaper",
+      "impressions": 2.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Jalgaon",
+      "property": "Homepage Wallpaper",
+      "impressions": 128.0,
+      "viewable": 101.0,
+      "clicks": null,
+      "ctr": 0.010638297872340425
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Jalna",
+      "property": "Homepage Wallpaper",
+      "impressions": 35.0,
+      "viewable": 27.0,
+      "clicks": null,
+      "ctr": 0.02594810379241517
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Jaysingpur",
+      "property": "Homepage Wallpaper",
+      "impressions": 5.0,
+      "viewable": 4.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kalyan",
+      "property": "Homepage Wallpaper",
+      "impressions": 178.0,
+      "viewable": 124.0,
+      "clicks": 2.0,
+      "ctr": 0.041666666666666664
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kamptee",
+      "property": "Homepage Wallpaper",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": 0.25
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kankavali",
+      "property": "Homepage Wallpaper",
+      "impressions": 2.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Karad",
+      "property": "Homepage Wallpaper",
+      "impressions": 27.0,
+      "viewable": 19.0,
+      "clicks": 1.0,
+      "ctr": 0.009900990099009901
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Karjat",
+      "property": "Homepage Wallpaper",
+      "impressions": 9.0,
+      "viewable": 7.0,
+      "clicks": null,
+      "ctr": 0.00847457627118644
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Khamgaon",
+      "property": "Homepage Wallpaper",
+      "impressions": 6.0,
+      "viewable": 6.0,
+      "clicks": null,
+      "ctr": 0.07692307692307693
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kolhapur",
+      "property": "Homepage Wallpaper",
+      "impressions": 265.0,
+      "viewable": 175.0,
+      "clicks": 3.0,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kopargaon",
+      "property": "Homepage Wallpaper",
+      "impressions": 2.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kudal",
+      "property": "Homepage Wallpaper",
+      "impressions": 11.0,
+      "viewable": 11.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Latur",
+      "property": "Homepage Wallpaper",
+      "impressions": 83.0,
+      "viewable": 66.0,
+      "clicks": 1.0,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Lonavla",
+      "property": "Homepage Wallpaper",
+      "impressions": 2.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": 0.0625
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mahad",
+      "property": "Homepage Wallpaper",
+      "impressions": 1.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Malegaon",
+      "property": "Homepage Wallpaper",
+      "impressions": 25.0,
+      "viewable": 19.0,
+      "clicks": null,
+      "ctr": 0.026490066225165563
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Miraj",
+      "property": "Homepage Wallpaper",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": 0.0234375
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mohol",
+      "property": "Homepage Wallpaper",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": 0.1
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "property": "Homepage Wallpaper",
+      "impressions": 6000.0,
+      "viewable": 4480.0,
+      "clicks": 65.0,
+      "ctr": 0.01276595744680851
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "property": "Homepage Wallpaper",
+      "impressions": 611.0,
+      "viewable": 436.0,
+      "clicks": 9.0,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Nanded",
+      "property": "Homepage Wallpaper",
+      "impressions": 107.0,
+      "viewable": 74.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Nandurbar",
+      "property": "Homepage Wallpaper",
+      "impressions": 8.0,
+      "viewable": 6.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Nashik",
+      "property": "Homepage Wallpaper",
+      "impressions": 588.0,
+      "viewable": 423.0,
+      "clicks": 2.0,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "property": "Homepage Wallpaper",
+      "impressions": 521.0,
+      "viewable": 379.0,
+      "clicks": 2.0,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Nevasa",
+      "property": "Homepage Wallpaper",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Palghar",
+      "property": "Homepage Wallpaper",
+      "impressions": 72.0,
+      "viewable": 48.0,
+      "clicks": 1.0,
+      "ctr": 0.027855153203342618
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pandharpur",
+      "property": "Homepage Wallpaper",
+      "impressions": 3.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Panvel",
+      "property": "Homepage Wallpaper",
+      "impressions": 203.0,
+      "viewable": 134.0,
+      "clicks": null,
+      "ctr": 0.022727272727272728
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Parbhani",
+      "property": "Homepage Wallpaper",
+      "impressions": 30.0,
+      "viewable": 21.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Parshivni",
+      "property": "Homepage Wallpaper",
+      "impressions": 6.0,
+      "viewable": 6.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pen",
+      "property": "Homepage Wallpaper",
+      "impressions": 18.0,
+      "viewable": 10.0,
+      "clicks": null,
+      "ctr": 0.03333333333333333
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Phaltan",
+      "property": "Homepage Wallpaper",
+      "impressions": 9.0,
+      "viewable": 9.0,
+      "clicks": 1.0,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pimpri-Chinchwad",
+      "property": "Homepage Wallpaper",
+      "impressions": 5.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "property": "Homepage Wallpaper",
+      "impressions": 77.0,
+      "viewable": 39.0,
+      "clicks": 4.0,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Purandar",
+      "property": "Homepage Wallpaper",
+      "impressions": 8.0,
+      "viewable": 7.0,
+      "clicks": null,
+      "ctr": 0.012682926829268294
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pusad",
+      "property": "Homepage Wallpaper",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": 0.006993006993006993
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Rahuri",
+      "property": "Homepage Wallpaper",
+      "impressions": 2.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Raigad",
+      "property": "Homepage Wallpaper",
+      "impressions": 120.0,
+      "viewable": 94.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Ratnagiri",
+      "property": "Homepage Wallpaper",
+      "impressions": 31.0,
+      "viewable": 23.0,
+      "clicks": 1.0,
+      "ctr": 0.016817593790426907
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Sangamner",
+      "property": "Homepage Wallpaper",
+      "impressions": 21.0,
+      "viewable": 18.0,
+      "clicks": null,
+      "ctr": 0.0187207488299532
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Sangli",
+      "property": "Homepage Wallpaper",
+      "impressions": 131.0,
+      "viewable": 89.0,
+      "clicks": 1.0,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Sangola",
+      "property": "Homepage Wallpaper",
+      "impressions": 2.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Saswad",
+      "property": "Homepage Wallpaper",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Satara",
+      "property": "Homepage Wallpaper",
+      "impressions": 78.0,
+      "viewable": 60.0,
+      "clicks": null,
+      "ctr": 0.01276595744680851
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Shahada",
+      "property": "Homepage Wallpaper",
+      "impressions": 2.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Shahapur",
+      "property": "Homepage Wallpaper",
+      "impressions": 21.0,
+      "viewable": 11.0,
+      "clicks": 2.0,
+      "ctr": 0.015873015873015872
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Shirdi",
+      "property": "Homepage Wallpaper",
+      "impressions": 4.0,
+      "viewable": 3.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Shirur",
+      "property": "Homepage Wallpaper",
+      "impressions": 6.0,
+      "viewable": 3.0,
+      "clicks": null,
+      "ctr": 0.015873015873015872
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Shirwal",
+      "property": "Homepage Wallpaper",
+      "impressions": 3.0,
+      "viewable": 3.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Shrirampur",
+      "property": "Homepage Wallpaper",
+      "impressions": 13.0,
+      "viewable": 6.0,
+      "clicks": null,
+      "ctr": 0.0163265306122449
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Sillod",
+      "property": "Homepage Wallpaper",
+      "impressions": 1.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": 0.01975736568457539
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Sindhdurg",
+      "property": "Homepage Wallpaper",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": 0.5
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Solapur",
+      "property": "Homepage Wallpaper",
+      "impressions": 153.0,
+      "viewable": 105.0,
+      "clicks": 1.0,
+      "ctr": 0.0055248618784530384
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Thane",
+      "property": "Homepage Wallpaper",
+      "impressions": 676.0,
+      "viewable": 505.0,
+      "clicks": 9.0,
+      "ctr": 0.05263157894736842
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Udgir",
+      "property": "Homepage Wallpaper",
+      "impressions": 2.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": 0.02040816326530612
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Ulhasnagar",
+      "property": "Homepage Wallpaper",
+      "impressions": 15.0,
+      "viewable": 10.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Vasai",
+      "property": "Homepage Wallpaper",
+      "impressions": 68.0,
+      "viewable": 43.0,
+      "clicks": null,
+      "ctr": 0.03821656050955414
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Virar",
+      "property": "Homepage Wallpaper",
+      "impressions": 93.0,
+      "viewable": 71.0,
+      "clicks": 1.0,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Wadkhal",
+      "property": "Homepage Wallpaper",
+      "impressions": 4.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Wai",
+      "property": "Homepage Wallpaper",
+      "impressions": 14.0,
+      "viewable": 6.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Wani",
+      "property": "Homepage Wallpaper",
+      "impressions": 2.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Wardha",
+      "property": "Homepage Wallpaper",
+      "impressions": 17.0,
+      "viewable": 16.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Washim",
+      "property": "Homepage Wallpaper",
+      "impressions": 30.0,
+      "viewable": 21.0,
+      "clicks": 1.0,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Yavatmal",
+      "property": "Homepage Wallpaper",
+      "impressions": 79.0,
+      "viewable": 45.0,
+      "clicks": 1.0,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Ahilya Nagar",
+      "property": "Ticker",
+      "impressions": 907.0,
+      "viewable": 663.0,
+      "clicks": 4.0,
+      "ctr": 0.004410143329658214
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Akkalkot",
+      "property": "Ticker",
+      "impressions": 6.0,
+      "viewable": 4.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Akluj",
+      "property": "Ticker",
+      "impressions": 68.0,
+      "viewable": 44.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Akola",
+      "property": "Ticker",
+      "impressions": 551.0,
+      "viewable": 420.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Alandi",
+      "property": "Ticker",
+      "impressions": 1.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Ambajogai",
+      "property": "Ticker",
+      "impressions": 34.0,
+      "viewable": 22.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Amravati",
+      "property": "Ticker",
+      "impressions": 737.0,
+      "viewable": 542.0,
+      "clicks": 7.0,
+      "ctr": 0.009497964721845319
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Badlapur",
+      "property": "Ticker",
+      "impressions": 226.0,
+      "viewable": 175.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Baramati",
+      "property": "Ticker",
+      "impressions": 371.0,
+      "viewable": 257.0,
+      "clicks": 4.0,
+      "ctr": 0.01078167115902965
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Barshi",
+      "property": "Ticker",
+      "impressions": 16.0,
+      "viewable": 7.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Beed",
+      "property": "Ticker",
+      "impressions": 336.0,
+      "viewable": 265.0,
+      "clicks": 5.0,
+      "ctr": 0.01488095238095238
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Bhandara",
+      "property": "Ticker",
+      "impressions": 153.0,
+      "viewable": 106.0,
+      "clicks": 2.0,
+      "ctr": 0.013071895424836602
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Bhusawal",
+      "property": "Ticker",
+      "impressions": 29.0,
+      "viewable": 26.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Buldhana",
+      "property": "Ticker",
+      "impressions": 234.0,
+      "viewable": 165.0,
+      "clicks": 1.0,
+      "ctr": 0.004273504273504274
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Chalisgaon",
+      "property": "Ticker",
+      "impressions": 62.0,
+      "viewable": 42.0,
+      "clicks": 1.0,
+      "ctr": 0.016129032258064516
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "property": "Ticker",
+      "impressions": 770.0,
+      "viewable": 596.0,
+      "clicks": 6.0,
+      "ctr": 0.007792207792207792
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Chhatrapati Sambhaji Nagar",
+      "property": "Ticker",
+      "impressions": 2251.0,
+      "viewable": 1709.0,
+      "clicks": 23.0,
+      "ctr": 0.010217681030653044
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Chiplun",
+      "property": "Ticker",
+      "impressions": 61.0,
+      "viewable": 40.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Dahanu",
+      "property": "Ticker",
+      "impressions": 37.0,
+      "viewable": 24.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Dapoli",
+      "property": "Ticker",
+      "impressions": 7.0,
+      "viewable": 5.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Daund",
+      "property": "Ticker",
+      "impressions": 16.0,
+      "viewable": 14.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Dharashiv",
+      "property": "Ticker",
+      "impressions": 192.0,
+      "viewable": 158.0,
+      "clicks": 2.0,
+      "ctr": 0.010416666666666666
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Dhule",
+      "property": "Ticker",
+      "impressions": 439.0,
+      "viewable": 321.0,
+      "clicks": 2.0,
+      "ctr": 0.004555808656036446
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Dindori - MH",
+      "property": "Ticker",
+      "impressions": 7.0,
+      "viewable": 6.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Gadchiroli",
+      "property": "Ticker",
+      "impressions": 119.0,
+      "viewable": 95.0,
+      "clicks": 3.0,
+      "ctr": 0.025210084033613446
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Gadhinglaj",
+      "property": "Ticker",
+      "impressions": 25.0,
+      "viewable": 24.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Gondia",
+      "property": "Ticker",
+      "impressions": 175.0,
+      "viewable": 132.0,
+      "clicks": 1.0,
+      "ctr": 0.005714285714285714
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Guhagar",
+      "property": "Ticker",
+      "impressions": 4.0,
+      "viewable": 4.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Hinganghat",
+      "property": "Ticker",
+      "impressions": 1.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Hingoli",
+      "property": "Ticker",
+      "impressions": 71.0,
+      "viewable": 50.0,
+      "clicks": 1.0,
+      "ctr": 0.014084507042253521
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Ichalkaranji",
+      "property": "Ticker",
+      "impressions": 113.0,
+      "viewable": 73.0,
+      "clicks": 2.0,
+      "ctr": 0.017699115044247787
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Indapur",
+      "property": "Ticker",
+      "impressions": 10.0,
+      "viewable": 9.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Jalgaon",
+      "property": "Ticker",
+      "impressions": 662.0,
+      "viewable": 532.0,
+      "clicks": 8.0,
+      "ctr": 0.012084592145015106
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Jalna",
+      "property": "Ticker",
+      "impressions": 355.0,
+      "viewable": 255.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Jaysingpur",
+      "property": "Ticker",
+      "impressions": 13.0,
+      "viewable": 6.0,
+      "clicks": 1.0,
+      "ctr": 0.07692307692307693
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kagal",
+      "property": "Ticker",
+      "impressions": 2.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kamleshwar",
+      "property": "Ticker",
+      "impressions": 2.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kamptee",
+      "property": "Ticker",
+      "impressions": 6.0,
+      "viewable": 4.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kankavali",
+      "property": "Ticker",
+      "impressions": 8.0,
+      "viewable": 6.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Karad",
+      "property": "Ticker",
+      "impressions": 133.0,
+      "viewable": 94.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Karjat",
+      "property": "Ticker",
+      "impressions": 24.0,
+      "viewable": 21.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Karmala",
+      "property": "Ticker",
+      "impressions": 2.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Katol",
+      "property": "Ticker",
+      "impressions": 1.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Khamgaon",
+      "property": "Ticker",
+      "impressions": 70.0,
+      "viewable": 53.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Khed",
+      "property": "Ticker",
+      "impressions": 9.0,
+      "viewable": 4.0,
+      "clicks": 1.0,
+      "ctr": 0.1111111111111111
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Khopoli",
+      "property": "Ticker",
+      "impressions": 18.0,
+      "viewable": 12.0,
+      "clicks": 1.0,
+      "ctr": 0.05555555555555555
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kolhapur",
+      "property": "Ticker",
+      "impressions": 1565.0,
+      "viewable": 1147.0,
+      "clicks": 13.0,
+      "ctr": 0.008306709265175719
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kopargaon",
+      "property": "Ticker",
+      "impressions": 27.0,
+      "viewable": 23.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kudal",
+      "property": "Ticker",
+      "impressions": 65.0,
+      "viewable": 40.0,
+      "clicks": 1.0,
+      "ctr": 0.015384615384615385
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kurdwadi",
+      "property": "Ticker",
+      "impressions": 3.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Lanja",
+      "property": "Ticker",
+      "impressions": 5.0,
+      "viewable": 4.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Latur",
+      "property": "Ticker",
+      "impressions": 806.0,
+      "viewable": 599.0,
+      "clicks": 6.0,
+      "ctr": 0.007444168734491315
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Lonavla",
+      "property": "Ticker",
+      "impressions": 16.0,
+      "viewable": 14.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Madha",
+      "property": "Ticker",
+      "impressions": 5.0,
+      "viewable": 5.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mahad",
+      "property": "Ticker",
+      "impressions": 17.0,
+      "viewable": 14.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Malegaon",
+      "property": "Ticker",
+      "impressions": 103.0,
+      "viewable": 75.0,
+      "clicks": 3.0,
+      "ctr": 0.02912621359223301
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Malsiras",
+      "property": "Ticker",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Malvan",
+      "property": "Ticker",
+      "impressions": 9.0,
+      "viewable": 7.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mandangad",
+      "property": "Ticker",
+      "impressions": 4.0,
+      "viewable": 4.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mandrup",
+      "property": "Ticker",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mangalwedha",
+      "property": "Ticker",
+      "impressions": 16.0,
+      "viewable": 10.0,
+      "clicks": 1.0,
+      "ctr": 0.0625
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mauda",
+      "property": "Ticker",
+      "impressions": 2.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Miraj",
+      "property": "Ticker",
+      "impressions": 32.0,
+      "viewable": 26.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mohol",
+      "property": "Ticker",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "property": "Ticker",
+      "impressions": 4812.0,
+      "viewable": 3671.0,
+      "clicks": 48.0,
+      "ctr": 0.00997506234413965
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Nanded",
+      "property": "Ticker",
+      "impressions": 651.0,
+      "viewable": 517.0,
+      "clicks": 5.0,
+      "ctr": 0.007680491551459293
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Nandurbar",
+      "property": "Ticker",
+      "impressions": 118.0,
+      "viewable": 88.0,
+      "clicks": 1.0,
+      "ctr": 0.00847457627118644
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Narayangaon",
+      "property": "Ticker",
+      "impressions": 21.0,
+      "viewable": 15.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Nashik",
+      "property": "Ticker",
+      "impressions": 3261.0,
+      "viewable": 2419.0,
+      "clicks": 18.0,
+      "ctr": 0.005519779208831647
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Nevasa",
+      "property": "Ticker",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Nidhori",
+      "property": "Ticker",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Paithan",
+      "property": "Ticker",
+      "impressions": 9.0,
+      "viewable": 8.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pandharpur",
+      "property": "Ticker",
+      "impressions": 46.0,
+      "viewable": 31.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Paratwada",
+      "property": "Ticker",
+      "impressions": 6.0,
+      "viewable": 6.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Parbhani",
+      "property": "Ticker",
+      "impressions": 197.0,
+      "viewable": 136.0,
+      "clicks": 2.0,
+      "ctr": 0.01015228426395939
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Parli",
+      "property": "Ticker",
+      "impressions": 2.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Parshivni",
+      "property": "Ticker",
+      "impressions": 17.0,
+      "viewable": 17.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Phaltan",
+      "property": "Ticker",
+      "impressions": 11.0,
+      "viewable": 5.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pimpri-Chinchwad",
+      "property": "Ticker",
+      "impressions": 949.0,
+      "viewable": 712.0,
+      "clicks": 7.0,
+      "ctr": 0.007376185458377239
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pulgaon",
+      "property": "Ticker",
+      "impressions": 1.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "property": "Ticker",
+      "impressions": 22866.0,
+      "viewable": 17414.0,
+      "clicks": 209.0,
+      "ctr": 0.009140208169334384
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Purandar",
+      "property": "Ticker",
+      "impressions": 14.0,
+      "viewable": 13.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pusad",
+      "property": "Ticker",
+      "impressions": 19.0,
+      "viewable": 17.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Rahuri",
+      "property": "Ticker",
+      "impressions": 4.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Raigad",
+      "property": "Ticker",
+      "impressions": 587.0,
+      "viewable": 470.0,
+      "clicks": 5.0,
+      "ctr": 0.008517887563884156
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Ratnagiri",
+      "property": "Ticker",
+      "impressions": 190.0,
+      "viewable": 153.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Sangamner",
+      "property": "Ticker",
+      "impressions": 159.0,
+      "viewable": 105.0,
+      "clicks": 2.0,
+      "ctr": 0.012578616352201259
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Sangli",
+      "property": "Ticker",
+      "impressions": 1007.0,
+      "viewable": 739.0,
+      "clicks": 6.0,
+      "ctr": 0.005958291956305859
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Sangola",
+      "property": "Ticker",
+      "impressions": 12.0,
+      "viewable": 11.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Saswad",
+      "property": "Ticker",
+      "impressions": 37.0,
+      "viewable": 26.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Satara",
+      "property": "Ticker",
+      "impressions": 640.0,
+      "viewable": 485.0,
+      "clicks": 4.0,
+      "ctr": 0.00625
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Savner",
+      "property": "Ticker",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Sawantwadi",
+      "property": "Ticker",
+      "impressions": 11.0,
+      "viewable": 8.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Shahada",
+      "property": "Ticker",
+      "impressions": 11.0,
+      "viewable": 7.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Shirdi",
+      "property": "Ticker",
+      "impressions": 17.0,
+      "viewable": 10.0,
+      "clicks": 1.0,
+      "ctr": 0.058823529411764705
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Shirur",
+      "property": "Ticker",
+      "impressions": 77.0,
+      "viewable": 51.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Shirwal",
+      "property": "Ticker",
+      "impressions": 2.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Shrirampur",
+      "property": "Ticker",
+      "impressions": 79.0,
+      "viewable": 56.0,
+      "clicks": 1.0,
+      "ctr": 0.012658227848101266
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Sillod",
+      "property": "Ticker",
+      "impressions": 19.0,
+      "viewable": 16.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Sindhdurg",
+      "property": "Ticker",
+      "impressions": 67.0,
+      "viewable": 47.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Sinnar",
+      "property": "Ticker",
+      "impressions": 37.0,
+      "viewable": 30.0,
+      "clicks": 1.0,
+      "ctr": 0.02702702702702703
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Solapur",
+      "property": "Ticker",
+      "impressions": 1125.0,
+      "viewable": 867.0,
+      "clicks": 11.0,
+      "ctr": 0.009777777777777778
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Tebhurni",
+      "property": "Ticker",
+      "impressions": 1.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Tumsar",
+      "property": "Ticker",
+      "impressions": 3.0,
+      "viewable": 3.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Udgir",
+      "property": "Ticker",
+      "impressions": 46.0,
+      "viewable": 40.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Ulhasnagar",
+      "property": "Ticker",
+      "impressions": 175.0,
+      "viewable": 139.0,
+      "clicks": 2.0,
+      "ctr": 0.011428571428571429
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Umred",
+      "property": "Ticker",
+      "impressions": 2.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Vaijanath",
+      "property": "Ticker",
+      "impressions": 4.0,
+      "viewable": 3.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Vaijapur",
+      "property": "Ticker",
+      "impressions": 14.0,
+      "viewable": 9.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Vengurla",
+      "property": "Ticker",
+      "impressions": 2.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Wadkhal",
+      "property": "Ticker",
+      "impressions": 23.0,
+      "viewable": 19.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Wai",
+      "property": "Ticker",
+      "impressions": 12.0,
+      "viewable": 5.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Wani",
+      "property": "Ticker",
+      "impressions": 14.0,
+      "viewable": 11.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Waranakadoli",
+      "property": "Ticker",
+      "impressions": 2.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Wardha",
+      "property": "Ticker",
+      "impressions": 201.0,
+      "viewable": 152.0,
+      "clicks": 4.0,
+      "ctr": 0.01990049751243781
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Washim",
+      "property": "Ticker",
+      "impressions": 207.0,
+      "viewable": 147.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Yavatmal",
+      "property": "Ticker",
+      "impressions": 367.0,
+      "viewable": 271.0,
+      "clicks": 3.0,
+      "ctr": 0.008174386920980926
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Yeole",
+      "property": "Ticker",
+      "impressions": 7.0,
+      "viewable": 6.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Yeotamal",
+      "property": "Ticker",
+      "impressions": 38.0,
+      "viewable": 29.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Boisar",
+      "property": "Ticker",
+      "impressions": 66.0,
+      "viewable": 47.0,
+      "clicks": 1.0,
+      "ctr": 0.015151515151515152
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Dombivali",
+      "property": "Ticker",
+      "impressions": 175.0,
+      "viewable": 125.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kalyan",
+      "property": "Ticker",
+      "impressions": 566.0,
+      "viewable": 404.0,
+      "clicks": 2.0,
+      "ctr": 0.0035335689045936395
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "property": "Ticker",
+      "impressions": 21206.0,
+      "viewable": 15602.0,
+      "clicks": 193.0,
+      "ctr": 0.009101197774214845
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "property": "Ticker",
+      "impressions": 1595.0,
+      "viewable": 1199.0,
+      "clicks": 10.0,
+      "ctr": 0.006269592476489028
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Palghar",
+      "property": "Ticker",
+      "impressions": 90.0,
+      "viewable": 69.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Panvel",
+      "property": "Ticker",
+      "impressions": 491.0,
+      "viewable": 372.0,
+      "clicks": 7.0,
+      "ctr": 0.014256619144602852
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pen",
+      "property": "Ticker",
+      "impressions": 95.0,
+      "viewable": 69.0,
+      "clicks": 1.0,
+      "ctr": 0.010526315789473684
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Thane",
+      "property": "Ticker",
+      "impressions": 2099.0,
+      "viewable": 1597.0,
+      "clicks": 27.0,
+      "ctr": 0.012863268222963315
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Vasai",
+      "property": "Ticker",
+      "impressions": 226.0,
+      "viewable": 176.0,
+      "clicks": 5.0,
+      "ctr": 0.022123893805309734
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Virar",
+      "property": "Ticker",
+      "impressions": 142.0,
+      "viewable": 111.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Bardez",
+      "property": "Ticker",
+      "impressions": 3.0,
+      "viewable": 3.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Bicholim",
+      "property": "Ticker",
+      "impressions": 5.0,
+      "viewable": 4.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Canacona",
+      "property": "Ticker",
+      "impressions": 4.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Cortalim",
+      "property": "Ticker",
+      "impressions": 4.0,
+      "viewable": 4.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Cuncolim",
+      "property": "Ticker",
+      "impressions": 1.0,
+      "viewable": null,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Goa",
+      "property": "Ticker",
+      "impressions": 720.0,
+      "viewable": 560.0,
+      "clicks": 7.0,
+      "ctr": 0.009722222222222222
+    },
+    {
+      "state": "Goa",
+      "city": "Madgaon",
+      "property": "Ticker",
+      "impressions": 2.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Mapusa",
+      "property": "Ticker",
+      "impressions": 15.0,
+      "viewable": 8.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Margao",
+      "property": "Ticker",
+      "impressions": 55.0,
+      "viewable": 38.0,
+      "clicks": 2.0,
+      "ctr": 0.03636363636363636
+    },
+    {
+      "state": "Goa",
+      "city": "Navelim",
+      "property": "Ticker",
+      "impressions": 31.0,
+      "viewable": 24.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "North Goa",
+      "property": "Ticker",
+      "impressions": 46.0,
+      "viewable": 33.0,
+      "clicks": 1.0,
+      "ctr": 0.021739130434782608
+    },
+    {
+      "state": "Goa",
+      "city": "Nuvem",
+      "property": "Ticker",
+      "impressions": 4.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Panaji",
+      "property": "Ticker",
+      "impressions": 46.0,
+      "viewable": 35.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Panjim",
+      "property": "Ticker",
+      "impressions": 17.0,
+      "viewable": 15.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Pernem",
+      "property": "Ticker",
+      "impressions": 4.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Ponda",
+      "property": "Ticker",
+      "impressions": 20.0,
+      "viewable": 14.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Porvorim",
+      "property": "Ticker",
+      "impressions": 3.0,
+      "viewable": 1.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Sanguem",
+      "property": "Ticker",
+      "impressions": 7.0,
+      "viewable": 5.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "South Goa",
+      "property": "Ticker",
+      "impressions": 53.0,
+      "viewable": 38.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Thivim",
+      "property": "Ticker",
+      "impressions": 8.0,
+      "viewable": 6.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Valpoi",
+      "property": "Ticker",
+      "impressions": 2.0,
+      "viewable": 2.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Vasco",
+      "property": "Ticker",
+      "impressions": 21.0,
+      "viewable": 15.0,
+      "clicks": null,
+      "ctr": null
+    },
+    {
+      "state": "Goa",
+      "city": "Verna",
+      "property": "Ticker",
+      "impressions": 26.0,
+      "viewable": 23.0,
+      "clicks": null,
+      "ctr": null
+    }
+  ]
+}
