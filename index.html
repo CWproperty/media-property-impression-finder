@@ -1,11 +1,70 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Media Property Impression Finder</title><link rel="stylesheet" href="style.css"></head><body><div class="wrap">
-<header><div><div class="kicker">SALES TOOL</div><h1>Media Property Impression Finder</h1><p>Choose one or more states and cities, then check media property potential.</p></div><div class="updated">DATA UPDATED<b id="updated">—</b></div></header>
-<section class="card filters"><div class="field"><label>1. SELECT STATE</label><select id="state" multiple size="5"></select><small>Ctrl/Cmd + click to select multiple.</small></div>
-<div class="field"><label>2. SELECT CITY</label><select id="city" multiple size="5"></select><small>Select one or more cities.</small></div>
-<div class="field"><label>3. SELECT MEDIA PROPERTY</label><select id="property"></select><small>Select the property to compare.</small></div>
-<div class="buttons"><button id="check" class="primary">Check Impressions</button><button id="reset" class="secondary">Reset</button></div></section>
-<section id="selection" class="selection card" hidden></section><section id="empty" class="card empty"><div>⌕</div><h2>Select State → City → Media Property</h2><p>Select multiple states and cities to compare them together.</p></section>
-<section id="results" hidden><div class="title"><div><div class="location" id="location"></div><h2 id="heading"></h2></div><button id="copy" class="copy">Copy Results</button></div><div id="cards" class="grid"></div>
-<div class="title"><h2>Detailed View</h2></div><div class="card tablewrap"><table><thead><tr><th>State</th><th>City</th><th>Media Property</th><th>Impressions</th><th>Viewable Impressions</th><th>Clicks</th><th>CTR</th></tr></thead><tbody id="tbody"></tbody></table></div></section>
-<footer>Internal sales tool • Update the <b>data.json</b> file monthly.</footer></div><script src="app.js"></script></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Media Property Impression Finder</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div><div class="kicker">SALES TOOL</div><h1>Media Property Impression Finder</h1><p>Choose State → City → Media Property to check impression potential.</p></div>
+  <div class="updated">DATA UPDATED<b id="updated">—</b></div>
+</header>
+
+<section class="card filters">
+  <div class="field">
+    <label>1. SELECT STATE</label>
+    <div class="multi" id="stateBox">
+      <button type="button" class="multi-btn" id="stateBtn">Select State <span>⌄</span></button>
+      <div class="menu" id="stateMenu"></div>
+    </div>
+    <small>Tick one or more states.</small>
+  </div>
+
+  <div class="field">
+    <label>2. SELECT CITY</label>
+    <div class="multi" id="cityBox">
+      <button type="button" class="multi-btn disabled" id="cityBtn">Select State first <span>⌄</span></button>
+      <div class="menu city-menu" id="cityMenu"></div>
+    </div>
+    <small>Tick one or more cities.</small>
+  </div>
+
+  <div class="field">
+    <label>3. SELECT MEDIA PROPERTY</label>
+    <select id="property"></select>
+    <small>Select one media property.</small>
+  </div>
+
+  <div class="buttons">
+    <button id="check" class="primary">Check Impressions</button>
+    <button id="reset" class="secondary">Reset</button>
+  </div>
+</section>
+
+<section id="selection" class="selection card" hidden></section>
+
+<section id="empty" class="card empty">
+  <div class="searchicon">⌕</div>
+  <h2>Select State → City → Media Property</h2>
+  <p>Use the tick boxes to select multiple states and cities.</p>
+</section>
+
+<section id="results" hidden>
+  <div class="title">
+    <div><div class="location" id="location"></div><h2 id="heading"></h2></div>
+    <button id="copy" class="copy">Copy Results</button>
+  </div>
+  <div id="cards" class="grid"></div>
+  <div class="title"><h2>Detailed View</h2></div>
+  <div class="card tablewrap">
+    <table><thead><tr><th>State</th><th>City</th><th>Media Property</th><th>Impressions</th><th>Viewable Impressions</th><th>Clicks</th><th>CTR</th></tr></thead>
+    <tbody id="tbody"></tbody></table>
+  </div>
+</section>
+<footer>Internal sales tool • Monthly data is maintained in <b>data.json</b>.</footer>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
